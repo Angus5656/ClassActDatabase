@@ -1,0 +1,5 @@
+﻿{
+  "ConnectionStrings": {
+    "StudentManagementDB": "Server=localhost;Database=StudentManagementDB;Trusted_Connection=True;TrustServerCertificate=True;"
+  }
+}
